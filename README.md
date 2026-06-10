@@ -2,21 +2,23 @@
 
 A brief description of what this project does and who it's for.  
 
+it certainly is a project
+
  
 
-# Hi, I'm [Your Name]! 👋 
+# Hi, I'm Emma! 👋 
 
  
 
 ## 🚀 About Me 
 
-Tell us more about yourself! 
+i draw art and play games
 
  
 
 ## 🛠 Skills 
 
-Tell us what skills do you have! 
+i can do many things and the things i cannot yet do i will learn
 
  
 
